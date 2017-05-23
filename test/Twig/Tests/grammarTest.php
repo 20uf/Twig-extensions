@@ -11,6 +11,9 @@
 
 require_once __DIR__.'/SimpleTokenParser.php';
 
+/**
+ * @group legacy
+ */
 class grammarTest extends PHPUnit_Framework_TestCase
 {
     /**
